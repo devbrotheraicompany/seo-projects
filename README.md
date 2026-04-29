@@ -84,6 +84,7 @@ We are open to:
 ## ⭐ Our Mission
 
 Create tools and products that actually deliver results, not just look good.
-Supported by
-Yuriy Golikov
+
 ---
+Supported y
+Yuriy Golikov
